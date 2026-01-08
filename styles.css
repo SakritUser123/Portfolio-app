@@ -1,0 +1,27 @@
+
+
+
+body{
+    background-color: rgb(142, 152, 180);
+    animation-name: myAnimation;
+    text-align: center;
+    color: rgb(25, 0, 255);
+}
+h1{
+    background-color: rgb(15, 117, 207);
+    text-align: center;
+}
+
+
+p{
+    background-color: rgb(21, 61, 9);
+
+}
+
+img {
+    width: 40vw;
+    left: 60px;
+    position:center;
+    border-radius: 90%;
+    
+}
