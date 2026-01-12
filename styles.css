@@ -5,7 +5,7 @@ body{
     background-color: rgb(142, 152, 180);
     animation-name: myAnimation;
     text-align: center;
-    color: rgb(25, 0, 255);
+    color: rgb(0 ,0 ,0);
 }
 h1{
     background-color: rgb(255 , 255 , 255);
@@ -33,5 +33,6 @@ text-border {
     padding: 10px;       
     display: inline-block; 
 }
+
 
 
