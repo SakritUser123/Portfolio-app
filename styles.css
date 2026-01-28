@@ -31,6 +31,15 @@ img {
 p {
     line-height: 1.6;
 }
+html, body {
+    height: 100%;            /* fill the full viewport */
+    margin: 0;
+    padding: 0;
+    background-color: #111;  /* dark background */
+    color: white;            /* text color */
+    text-align: center;
+}
+
 
 
 
